@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code&family=Fira+Sans&family=Montserrat:wght@500&family=Rubik&display=swap');
+
+.navbar-brand{
+    font-family: 'Fira Code', monospace;
+    font-size: 30px;
+}
+body{
+    font-family: 'Fira Sans', sans-serif;
+}
+h5{
+    font-family: 'Fira Code', monospace !important;
+    font-weight: 600;
+}
+p{
+    color: red;
+    font-family: 'Fira Sans', sans-serif;
+    margin-top: 10px;
+    margin-bottom: -8px;
+}
+#list{
+    color: blue;
+}
